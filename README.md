@@ -83,7 +83,7 @@ Also, you can refer to internal docs:
 -   [Setup Guide](https://rip-comm.github.io/sossoldi/setup/setup.html)
 -   [PR Guide](https://rip-comm.github.io/sossoldi/contributing/PR-guide.html)
 
-### Useful links to get started
+### Useful links to get started:
 -   [Github Repo](https://github.com/RIP-Comm/sossoldi)
 -   [Discord](https://discord.sossoldi.com)
 -   [Design file](https://www.figma.com/file/6NyY9yqunpbU7HIkbNEAL3/Sossoldi-App?node-id=0%3A1)
